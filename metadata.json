@@ -1,0 +1,5 @@
+{
+  "name": "RILCOT OS",
+  "description": "Application de gestion pour les membres de RILCOT OS, incluant la gestion de projets, la gouvernance, les finances et l'annuaire.",
+  "requestFramePermissions": []
+}
